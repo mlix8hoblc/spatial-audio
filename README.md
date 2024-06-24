@@ -25,6 +25,8 @@ Now listening on 0.0.0.0:1337
 > (-10, 3, 6) C'est magique !
 ```
 
+Use arrow keys (↑, ↓, ←, →) to update x, y, z coordinates; press Enter for a new line, and Ctrl+C to exit.
+
 ```
 $ npm run visualize
 Generating graph points and planes on a set of 3D axes...
